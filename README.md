@@ -1,1 +1,3 @@
-# gcm-impacta
+# gcm-project
+# função: Professor
+# faculdade: Impacta
